@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "673048791275",
+    "firebase_url": "https://fir-01-441aa-default-rtdb.firebaseio.com",
+    "project_id": "fir-01-441aa",
+    "storage_bucket": "fir-01-441aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673048791275:android:8caf38093cbb4fdd6e16ae",
+        "android_client_info": {
+          "package_name": "com.example.configremotefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbou8F-_s5Fs_-uhokJc1oiZZCf6H3Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673048791275:android:88cf96bb0fc3fb006e16ae",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbou8F-_s5Fs_-uhokJc1oiZZCf6H3Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673048791275:android:7028e9f4c75b43a76e16ae",
+        "android_client_info": {
+          "package_name": "com.example.firebaseremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbou8F-_s5Fs_-uhokJc1oiZZCf6H3Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673048791275-8ad5orj5tnpnipatt1c4ikce4dd1fvnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

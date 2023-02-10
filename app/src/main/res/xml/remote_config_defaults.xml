@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+  <entry>
+    <key>config_com_example_config_remote_firebase</key>
+    <value>{   "commonInfo": {     "awaitSend": 70,     "maxListen": 66,     "adCount": 240,     "nativeAdCount": 47,     "nativeAdCountNew": 48,     "firstShowNative": 2,     "waitingShowInter": 20,     "fixedKeywordNum": 5,     "lastUpdate": 1523443915358,     "supportInter": true,     "supportFanInter": true,     "supportNative": true,     "supportAdaptiveBanner": true,     "supportApplovin": false,     "supportIronsrc": false,     "supportReward": true,     "activeServer": true,     "isCoordinator": true,     "isSaleOff": true}}</value>
+  </entry>
+</defaults>
